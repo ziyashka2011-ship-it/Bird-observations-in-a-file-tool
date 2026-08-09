@@ -1,3 +1,1 @@
-Simple Python program to count how many times a species was observed
-Unfortunately, the program counts the species incorrectly if they are not listed in a column inside the TXT file
-Feel free to submit a pull request if you would like to contribute and make the code better (please)
+Simple Python program to count how many times a species was observed. Unfortunately, the program counts the species incorrectly if they are not listed in a column inside the TXT file. Feel free to submit a pull request if you would like to contribute and make the code better (please).

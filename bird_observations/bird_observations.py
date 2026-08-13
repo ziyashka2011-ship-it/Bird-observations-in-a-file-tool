@@ -1,4 +1,4 @@
-observations_file = open('observations.txt')
+observations_file = open('birds.txt')
 
 bird_to_observations = {}
 
